@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
   </head>
 <body>
  <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -69,6 +68,5 @@
   <p>
     Contributions to the recommendation system are welcome. If you find any issues or have suggestions for improvements, please submit a pull request or open an issue.
   </p>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
