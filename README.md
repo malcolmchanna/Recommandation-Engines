@@ -68,5 +68,33 @@
   <p>
     Contributions to the recommendation system are welcome. If you find any issues or have suggestions for improvements, please submit a pull request or open an issue.
   </p>
+  <h2>License</h2>
+
+<p>The recommendation system is released under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. You are welcome to use, modify, and distribute this codebase as per the terms of the license.</p>
+
+<h2>Acknowledgements</h2>
+
+<p>We would like to thank the creators and contributors of the following libraries and frameworks used in this project:</p>
+
+<ul>
+  <li>Flask</li>
+  <li>Pandas</li>
+  <li>NumPy</li>
+  <li>SciPy</li>
+  <li>Bootstrap</li>
+</ul>
+
+<h2>Contact</h2>
+
+<p>For any inquiries or questions, please contact <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+Feel free to use this HTML code and modify it according to your needs.
+
+
+
+
+
+
+
+  
 </body>
 </html>
